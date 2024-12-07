@@ -12,9 +12,9 @@ Portable across various systems supporting Python.
 ## Requirements
   Python 3.7 or later
   Required libraries:
-    vosk
-    sounddevice
-    numpy
+    vosk,
+    sounddevice,
+    numpy,
     
 ## Code Overview
 Here’s a high-level overview of the main components:
